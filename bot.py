@@ -1,5 +1,4 @@
 import requests
-import random
 
 url = "http://localhost/views/hashtag.php"
 hash = input("Enter the hashtag (without #): ")
